@@ -34,9 +34,9 @@ geographic distribution, and temporal trends from 2008-2021.
 - **Target Demographic**: Primarily adults and teen audience
 
 ### 5. Genre Preferences
-- **Dominant Genre**: TV with 5230 titles
-- **Top 3 Genres**: TV, International, Movies represent major chunk of content
-- **Trend**: Strong focus on TV
+- **Dominant Genre**: International Movies with 2752 titles
+- **Top 3 Genres**: International Movies, Dramas, Comedies represent major chunk of content
+- **Trend**: Strong focus on International Movies
 - **Market Position**: Aligns with streaming and entertainment industry trends
 
 ## 💼 Business Recommendations
@@ -47,7 +47,7 @@ geographic distribution, and temporal trends from 2008-2021.
 - **Audience Targeting:** Mature Audiences mostly using TV-MA and also a huge chunk of family friendly options with movies and TV Shows
 
 ### For Content Creators:
-- Focus on **TV** that Netflix actively acquires
+- Focus on **Intenational Movies** that Netflix actively acquires
 - Target **United States** for co-production opportunities
 - Create **Movies** aligned with platform strategy
 
@@ -63,7 +63,7 @@ geographic distribution, and temporal trends from 2008-2021.
 - **Tools**: Python, Pandas, Matplotlib, Seaborn
 - **Data Cleaning**: Handled missing values, duplicate removal, date formatting
 - **Visualization**: 5 core charts covering type, geography, time, ratings, genres
-- **Analysis Period**: [Your analysis date]
+- **Analysis Period**: 11 November 2025
 
 ## 📁 Project Structure
 ```
@@ -91,7 +91,7 @@ netflix-analysis/
 ## 🚀 Key Takeaways
 1. 6,131 Movies (69.6%) vs 2,676 TV shows (30.4%). Netflix has a strong preference for Movies
 2. United States dominates with 3,689 titles. Top 3 countries: United States, India, United Kingdom. Top 3 represent 5,539 titles (55.3% of all content)
-3. 'TV' dominates with 5,230 titles. Top 3 genres: TV, International, Movies
+3. 'International Movies' dominates with 2752 titles. Top 3 genres: International Movies, Dramas, Comedies
 
 ---
 
