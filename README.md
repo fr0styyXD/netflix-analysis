@@ -182,7 +182,7 @@ netflix-analysis/
 - **Audience Targeting:** Mature Audiences mostly using TV-MA and also a huge chunk of family friendly options with movies and TV Shows
 
 ### For Content Creators:
-- Focus on **TV** that Netflix actively acquires
+- Focus on **International Movies** that Netflix actively acquires
 - Target **United States** for co-production opportunities
 - Create **Movies** aligned with platform strategy
 
@@ -212,3 +212,4 @@ netflix-analysis/
 [⬆ Back to Top](#-netflix-content-analysis-dashboard)
 
 </div>
+
