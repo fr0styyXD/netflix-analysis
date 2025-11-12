@@ -6,7 +6,7 @@
 
 Comprehensive data analysis of **8,000+ Netflix titles** revealing content distribution patterns, geographic trends, and strategic insights for the streaming entertainment industry.
 
-**Live Analysis:** [Link to notebook or deployed dashboard]  
+**Live Analysis:** [Deployed Dashboard](https://netflix-db.streamlit.app/)  
 
 ---
 
@@ -212,4 +212,5 @@ netflix-analysis/
 [⬆ Back to Top](#-netflix-content-analysis-dashboard)
 
 </div>
+
 
