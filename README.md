@@ -101,7 +101,7 @@ Comprehensive data analysis of **8,000+ Netflix titles** revealing content distr
 |---|---------|
 | 1️⃣ | **6,131 Movies (69.6%) vs 2,676 TV shows (30.4%). Netflix has a strong preference for Movies** |
 | 2️⃣ | **United States dominates with 3,689 titles. Top 3 countries: United States, India, United Kingdom. Top 3 represent 5,539 titles (55.3% of all content)** |
-| 3️⃣ | **'TV' dominates with 5,230 titles. Top 3 genres: TV, International, Movies** |
+| 3️⃣ | **'TV' dominates with 5,230 titles. Top 3 genres: International Movies, Dramas, Comedies** |
 
 **Detailed Analysis:** See [ANALYSIS.md](ANALYSIS.md) for comprehensive findings
 
